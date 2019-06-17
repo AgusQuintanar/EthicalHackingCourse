@@ -9,3 +9,5 @@
 3- `iwconfig wlan0 mode "mode"` to change wireless mode
 1- `ifconfig wlan0 up` to enable wireless adapter
 <br>
+
+I need to change my wireless antenna in order to work
